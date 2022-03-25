@@ -19,8 +19,8 @@
 ## Languages and Tools:
 
 <p align="left">
-    <a href="https://www.cprogramming.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c.png"/> </a>
-    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/344/c-plus-plus-logo.png"/> </a>
+    <a href="https://www.cprogramming.com" target="_blank"> <img src="https://img.icons8.com/color/48/c-programming.png"/> </a>
+    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://flutter.dev" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
     <a href="https://dart.dev" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>  
