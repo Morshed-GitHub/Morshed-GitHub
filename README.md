@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning ***Flutter Mobile App Development***
 
-- 💬 Ask me about ***C, C++ Python, Flutter, Dart***
+- 💬 Ask me about ***C, C++, Python, Flutter, Dart***
 
 - 📫 How to reach me ***morshedraian12345@gmail.com***
 
